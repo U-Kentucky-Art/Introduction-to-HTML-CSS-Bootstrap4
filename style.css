@@ -1,0 +1,84 @@
+.assignments {
+  padding: 0px;
+}
+.assignments li {
+  list-style-type:none;
+  padding: 5px;
+  margin: 0px;
+}
+
+/* -------- individual pages ----------- */
+.section {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #ccc;
+}
+
+.section h2 {
+  margin-top: 0px;
+}
+
+.content h3 {
+  padding-left: 20px;
+}
+
+.content p {
+  padding-left: 30px;
+}
+
+.content li {
+  list-style-type:none;
+  padding: 5px;
+  margin: 0px;
+}
+
+.hr-container{
+  text-align: left;
+  padding-left: 20px;
+}
+
+.font-definitions {
+  padding-left: 20px;
+}
+
+.wires {
+  /* border: solid 1px #000; */
+}
+
+hr {
+  border-top: 1px dotted #ccc;
+  max-width: 70%;
+  margin-left: 0px;
+  margin-right: auto;
+}
+
+#back-to {
+  position: absolute;
+  top: 30px;
+  right:20px;
+}
+
+.palette-container {
+  display: flex;
+}
+
+/* Color cards */
+
+.color-card {
+  max-width: 120px;
+  border: solid 1px #000;
+  text-align: center;
+  margin-right: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.color-card .color {
+  width: 100px;
+  border: solid 1px #000;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

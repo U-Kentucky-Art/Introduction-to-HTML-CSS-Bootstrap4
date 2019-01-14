@@ -10,7 +10,7 @@
 /* -------- individual pages ----------- */
 .section {
   margin: 10px;
-  padding: 10px;
+  padding: 30px;
   border: solid 1px #ccc;
 }
 
@@ -96,4 +96,8 @@ hr {
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.text {
+  max-width: 600px;
 }

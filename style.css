@@ -101,3 +101,7 @@ hr {
 .text {
   max-width: 600px;
 }
+
+.wires li {
+  display: inline;
+}
